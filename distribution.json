@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "Betches-1.20.1",
+      "name": "Caribeland",
+      "description": "Caribeland Minecraft server (Minecraft 1.20.1, Fabric 0.19.5)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "caribeland.online",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.5",
+          "name": "Fabric Loader",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1984980,
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.19.5",
+              "name": "Fabric Version Manifest",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2862,
+                "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.19.5/profile/json"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
