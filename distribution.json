@@ -30,6 +30,69 @@
                 "size": 2862,
                 "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.19.5/profile/json"
               }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.10.1",
+              "name": "ASM",
+              "type": "Library",
+              "artifact": {
+                "size": 126151,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
+              "name": "ASM Analysis",
+              "type": "Library",
+              "artifact": {
+                "size": 35140,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.10.1",
+              "name": "ASM Commons",
+              "type": "Library",
+              "artifact": {
+                "size": 74840,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.10.1",
+              "name": "ASM Tree",
+              "type": "Library",
+              "artifact": {
+                "size": 51958,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.10.1",
+              "name": "ASM Util",
+              "type": "Library",
+              "artifact": {
+                "size": 95628,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.4+mixin.0.8.7",
+              "name": "Sponge Mixin",
+              "type": "Library",
+              "artifact": {
+                "size": 1539080,
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.4%2Bmixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric Intermediary",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
             }
           ]
         },
