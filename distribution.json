@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "Caribeland",
       "description": "Caribeland Minecraft server (Minecraft 1.20.1, Fabric 0.19.5)",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "caribeland.online",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -115,7 +115,8 @@
           "artifact": {
             "size": 2746075,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BOMD-1.7.5-1.20.1.jar",
-            "path": "BOMD-1.7.5-1.20.1.jar"
+            "path": "BOMD-1.7.5-1.20.1.jar",
+            "MD5": "61766c0c3eac7e34e13cc0eba01c48e1"
           }
         },
         {
@@ -129,7 +130,8 @@
           "artifact": {
             "size": 19219,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BetterMultiplayerSleep%201.1.0.jar",
-            "path": "BetterMultiplayerSleep 1.1.0.jar"
+            "path": "BetterMultiplayerSleep 1.1.0.jar",
+            "MD5": "46f25910c90ebba1e7b4c6083edf4bd8"
           }
         },
         {
@@ -143,7 +145,8 @@
           "artifact": {
             "size": 22317969,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
-            "path": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
+            "path": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+            "MD5": "60a09390958fd83c82a797d160f09472"
           }
         },
         {
@@ -157,7 +160,8 @@
           "artifact": {
             "size": 503384,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Bountiful-6.0.4+1.20.1-fabric.jar",
-            "path": "Bountiful-6.0.4+1.20.1-fabric.jar"
+            "path": "Bountiful-6.0.4+1.20.1-fabric.jar",
+            "MD5": "a1afe2fc29929415f5c2a50e3c5af1a9"
           }
         },
         {
@@ -171,7 +175,8 @@
           "artifact": {
             "size": 344004,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Chunky-1.3.146.jar",
-            "path": "Chunky-1.3.146.jar"
+            "path": "Chunky-1.3.146.jar",
+            "MD5": "b1e31424db96ae83246efd0390598e01"
           }
         },
         {
@@ -185,7 +190,8 @@
           "artifact": {
             "size": 1207852,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar",
-            "path": "CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
+            "path": "CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar",
+            "MD5": "54c1a949f488c1bbbe79ddf057a1accf"
           }
         },
         {
@@ -199,7 +205,8 @@
           "artifact": {
             "size": 85643802,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Dungeon%20Now%20Loading-fabric-1.20.1-2.2.jar",
-            "path": "Dungeon Now Loading-fabric-1.20.1-2.2.jar"
+            "path": "Dungeon Now Loading-fabric-1.20.1-2.2.jar",
+            "MD5": "8d8913985c3da7f93528763c5d819a0c"
           }
         },
         {
@@ -213,7 +220,8 @@
           "artifact": {
             "size": 6117761,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/FarmersDelight-1.20.1-2.5.7+refabricated.jar",
-            "path": "FarmersDelight-1.20.1-2.5.7+refabricated.jar"
+            "path": "FarmersDelight-1.20.1-2.5.7+refabricated.jar",
+            "MD5": "31d35d681e8df515eee7c815efd846de"
           }
         },
         {
@@ -227,7 +235,8 @@
           "artifact": {
             "size": 396628,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-            "path": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
+            "path": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+            "MD5": "17d4d761778f33c006551cf9ecc78798"
           }
         },
         {
@@ -241,7 +250,8 @@
           "artifact": {
             "size": 322107,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/GlitchCore-fabric-1.20.1-0.0.1.1.jar",
-            "path": "GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+            "path": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+            "MD5": "338c8029a4ad8d43869db8adf13339b2"
           }
         },
         {
@@ -255,7 +265,8 @@
           "artifact": {
             "size": 327998,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Kambrik-6.1.1+1.20.1-fabric.jar",
-            "path": "Kambrik-6.1.1+1.20.1-fabric.jar"
+            "path": "Kambrik-6.1.1+1.20.1-fabric.jar",
+            "MD5": "7494e938737edb83f2cca398b4d1aacc"
           }
         },
         {
@@ -269,7 +280,8 @@
           "artifact": {
             "size": 1084397,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
-            "path": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
+            "path": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+            "MD5": "0a1fa85e35d516812c8998d3a9daa51d"
           }
         },
         {
@@ -283,7 +295,8 @@
           "artifact": {
             "size": 5518319,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/SimplyTooltips-fabric-0.1.5-1.20.1.jar",
-            "path": "SimplyTooltips-fabric-0.1.5-1.20.1.jar"
+            "path": "SimplyTooltips-fabric-0.1.5-1.20.1.jar",
+            "MD5": "10686d1b21e699266d4455ca75582135"
           }
         },
         {
@@ -297,7 +310,8 @@
           "artifact": {
             "size": 322357,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-            "path": "TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+            "path": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+            "MD5": "ecdc32930106b6cd487d7efd19fe5932"
           }
         },
         {
@@ -311,7 +325,8 @@
           "artifact": {
             "size": 2864275,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
-            "path": "Towns-and-Towers-1.12-Fabric+Forge.jar"
+            "path": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+            "MD5": "237a2186d2482856f67c638c06489fb8"
           }
         },
         {
@@ -325,7 +340,8 @@
           "artifact": {
             "size": 115067,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/TradingPost-v8.0.2-1.20.1-Fabric.jar",
-            "path": "TradingPost-v8.0.2-1.20.1-Fabric.jar"
+            "path": "TradingPost-v8.0.2-1.20.1-Fabric.jar",
+            "MD5": "843c5aa5d30ead79c0eb6ed5eed60d46"
           }
         },
         {
@@ -339,7 +355,8 @@
           "artifact": {
             "size": 1396331,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsApi-1.20-Fabric-4.0.6.jar",
-            "path": "YungsApi-1.20-Fabric-4.0.6.jar"
+            "path": "YungsApi-1.20-Fabric-4.0.6.jar",
+            "MD5": "25624d7157f4b60827c4b6d06c0b8fc0"
           }
         },
         {
@@ -353,7 +370,8 @@
           "artifact": {
             "size": 1159879,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterCaves-1.20.1-Fabric-2.0.7.jar",
-            "path": "YungsBetterCaves-1.20.1-Fabric-2.0.7.jar"
+            "path": "YungsBetterCaves-1.20.1-Fabric-2.0.7.jar",
+            "MD5": "4d7b1b1d0952972ad255a993d142355c"
           }
         },
         {
@@ -367,7 +385,8 @@
           "artifact": {
             "size": 1063786,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
-            "path": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+            "path": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "MD5": "7dd4fec6982f0946575a4caab6248060"
           }
         },
         {
@@ -381,7 +400,8 @@
           "artifact": {
             "size": 944170,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
-            "path": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+            "path": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+            "MD5": "8e324c6508dd74edf1e4705d90139da2"
           }
         },
         {
@@ -395,7 +415,8 @@
           "artifact": {
             "size": 517369,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
-            "path": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+            "path": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+            "MD5": "1e64398f1d2ec1ea4049de391b51683d"
           }
         },
         {
@@ -409,7 +430,8 @@
           "artifact": {
             "size": 947293,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
-            "path": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"
+            "path": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "MD5": "b34e5608a93b6a2aa043e4c49f36aff7"
           }
         },
         {
@@ -423,7 +445,8 @@
           "artifact": {
             "size": 621495,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
-            "path": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+            "path": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "MD5": "88e49e369f9fd20958c87138328b8c3c"
           }
         },
         {
@@ -437,7 +460,8 @@
           "artifact": {
             "size": 760974,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
-            "path": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+            "path": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "MD5": "aefeee128bbae518186bd3d73c59c74a"
           }
         },
         {
@@ -451,7 +475,8 @@
           "artifact": {
             "size": 1165832,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
-            "path": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+            "path": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "MD5": "06c32808f70eaa9f41bcc01c09509229"
           }
         },
         {
@@ -465,7 +490,8 @@
           "artifact": {
             "size": 611598,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-            "path": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+            "path": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+            "MD5": "b0ca22280c7b931a7d3d9be028d3093c"
           }
         },
         {
@@ -479,7 +505,8 @@
           "artifact": {
             "size": 307196,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-            "path": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
+            "path": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "MD5": "afa25b703d976cde3d62c8f8d8a980a0"
           }
         },
         {
@@ -493,7 +520,8 @@
           "artifact": {
             "size": 266481,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsBridges-1.20-Fabric-4.0.3.jar",
-            "path": "YungsBridges-1.20-Fabric-4.0.3.jar"
+            "path": "YungsBridges-1.20-Fabric-4.0.3.jar",
+            "MD5": "3f195c1585696c0f0cb9d3e4507b1fb2"
           }
         },
         {
@@ -507,7 +535,8 @@
           "artifact": {
             "size": 13122627,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
-            "path": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar"
+            "path": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
+            "MD5": "4a6d8efdd5debf5e37ed45d82ddcb868"
           }
         },
         {
@@ -521,7 +550,8 @@
           "artifact": {
             "size": 2198257,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/%5B1.20.1%5D%20SecurityCraft-fabric-V0.6.jar",
-            "path": "[1.20.1] SecurityCraft-fabric-V0.6.jar"
+            "path": "[1.20.1] SecurityCraft-fabric-V0.6.jar",
+            "MD5": "31a8c10d531aff807bb13e85b7204fb6"
           }
         },
         {
@@ -535,7 +565,8 @@
           "artifact": {
             "size": 26631620,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/alexsmobsfabric-1.20.1-1.5.0.jar",
-            "path": "alexsmobsfabric-1.20.1-1.5.0.jar"
+            "path": "alexsmobsfabric-1.20.1-1.5.0.jar",
+            "MD5": "2d1e15f92be8e467095d52a3edcf7038"
           }
         },
         {
@@ -549,7 +580,8 @@
           "artifact": {
             "size": 1097240,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/appleskin-fabric-mc1.20.1-2.5.2.jar",
-            "path": "appleskin-fabric-mc1.20.1-2.5.2.jar"
+            "path": "appleskin-fabric-mc1.20.1-2.5.2.jar",
+            "MD5": "0f5aeb43d6949ddad88449ad29884b2b"
           }
         },
         {
@@ -563,7 +595,8 @@
           "artifact": {
             "size": 585207,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/architectury-9.2.14-fabric.jar",
-            "path": "architectury-9.2.14-fabric.jar"
+            "path": "architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
         {
@@ -577,7 +610,8 @@
           "artifact": {
             "size": 960096,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/artifacts-fabric-9.5.17.jar",
-            "path": "artifacts-fabric-9.5.17.jar"
+            "path": "artifacts-fabric-9.5.17.jar",
+            "MD5": "ad0a6526323f755c19ed8fc7793d7083"
           }
         },
         {
@@ -591,7 +625,8 @@
           "artifact": {
             "size": 74370,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/athena-fabric-1.20.1-3.1.2.jar",
-            "path": "athena-fabric-1.20.1-3.1.2.jar"
+            "path": "athena-fabric-1.20.1-3.1.2.jar",
+            "MD5": "4fd1c38eaf802239c3faeda982a77f2d"
           }
         },
         {
@@ -605,7 +640,8 @@
           "artifact": {
             "size": 1108056,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/automobility-0.4.2+1.20.1-fabric.jar",
-            "path": "automobility-0.4.2+1.20.1-fabric.jar"
+            "path": "automobility-0.4.2+1.20.1-fabric.jar",
+            "MD5": "ae13f136fc6081cc9242fe330b9f2252"
           }
         },
         {
@@ -619,7 +655,8 @@
           "artifact": {
             "size": 576168,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/balm-fabric-1.20.1-7.3.44.jar",
-            "path": "balm-fabric-1.20.1-7.3.44.jar"
+            "path": "balm-fabric-1.20.1-7.3.44.jar",
+            "MD5": "ed1a2524666122f4dc402deff481b9df"
           }
         },
         {
@@ -633,7 +670,8 @@
           "artifact": {
             "size": 2312835,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/bclib-3.0.14.jar",
-            "path": "bclib-3.0.14.jar"
+            "path": "bclib-3.0.14.jar",
+            "MD5": "f8ace3a498b889040dea6ff1ea85d288"
           }
         },
         {
@@ -647,7 +685,8 @@
           "artifact": {
             "size": 92544800,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/better-end-4.0.11.jar",
-            "path": "better-end-4.0.11.jar"
+            "path": "better-end-4.0.11.jar",
+            "MD5": "25be609cb7b9fc6e4e8782c6fdfea35b"
           }
         },
         {
@@ -661,7 +700,8 @@
           "artifact": {
             "size": 22981698,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/better-nether-9.0.10.jar",
-            "path": "better-nether-9.0.10.jar"
+            "path": "better-nether-9.0.10.jar",
+            "MD5": "ddc5a347daf531668da8ebe61bfc1c80"
           }
         },
         {
@@ -675,7 +715,8 @@
           "artifact": {
             "size": 907055,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/bettercombat-fabric-1.9.0+1.20.1.jar",
-            "path": "bettercombat-fabric-1.9.0+1.20.1.jar"
+            "path": "bettercombat-fabric-1.9.0+1.20.1.jar",
+            "MD5": "1ef35a7b3452ad26eda6469213ce6684"
           }
         },
         {
@@ -689,7 +730,8 @@
           "artifact": {
             "size": 228709,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/cardinal-components-api-5.2.3.jar",
-            "path": "cardinal-components-api-5.2.3.jar"
+            "path": "cardinal-components-api-5.2.3.jar",
+            "MD5": "b902397d35fbbf6df232f46fb483024a"
           }
         },
         {
@@ -703,7 +745,8 @@
           "artifact": {
             "size": 443033,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/carryon-fabric-1.20.1-2.1.2.7.jar",
-            "path": "carryon-fabric-1.20.1-2.1.2.7.jar"
+            "path": "carryon-fabric-1.20.1-2.1.2.7.jar",
+            "MD5": "c050f3d0934bbd8893fe2353eab906bb"
           }
         },
         {
@@ -717,7 +760,8 @@
           "artifact": {
             "size": 15057458,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/chipped-fabric-1.20.1-3.0.7.jar",
-            "path": "chipped-fabric-1.20.1-3.0.7.jar"
+            "path": "chipped-fabric-1.20.1-3.0.7.jar",
+            "MD5": "776f440f3ba3c8024f3b60eb92a20f6f"
           }
         },
         {
@@ -731,7 +775,8 @@
           "artifact": {
             "size": 894921,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/citadelfabric-1.20.1-1.1.0.jar",
-            "path": "citadelfabric-1.20.1-1.1.0.jar"
+            "path": "citadelfabric-1.20.1-1.1.0.jar",
+            "MD5": "e6a13a44901363bdf222831a2a8e3516"
           }
         },
         {
@@ -745,7 +790,8 @@
           "artifact": {
             "size": 1172214,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/cloth-config-11.1.136-fabric.jar",
-            "path": "cloth-config-11.1.136-fabric.jar"
+            "path": "cloth-config-11.1.136-fabric.jar",
+            "MD5": "45d8bada7797af61d1f5543313b1f9f0"
           }
         },
         {
@@ -759,7 +805,8 @@
           "artifact": {
             "size": 431581,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/cristellib-1.1.5-fabric.jar",
-            "path": "cristellib-1.1.5-fabric.jar"
+            "path": "cristellib-1.1.5-fabric.jar",
+            "MD5": "18f48c190dd29c43b5d7b10c5c243111"
           }
         },
         {
@@ -773,7 +820,8 @@
           "artifact": {
             "size": 55833,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/customvillagertrades-fabric-20.25.0.jar",
-            "path": "customvillagertrades-fabric-20.25.0.jar"
+            "path": "customvillagertrades-fabric-20.25.0.jar",
+            "MD5": "209bf23c1e95794276212c78e21a924a"
           }
         },
         {
@@ -787,7 +835,8 @@
           "artifact": {
             "size": 4028038,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/delightlib-26.05.18-1.20-fabric.jar",
-            "path": "delightlib-26.05.18-1.20-fabric.jar"
+            "path": "delightlib-26.05.18-1.20-fabric.jar",
+            "MD5": "ee8a0bdb63445157df011e427ecc9c8c"
           }
         },
         {
@@ -801,7 +850,8 @@
           "artifact": {
             "size": 57914,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/dimensional_traders-1.1.1.jar",
-            "path": "dimensional_traders-1.1.1.jar"
+            "path": "dimensional_traders-1.1.1.jar",
+            "MD5": "7d8d9f7bf9a1ca5e65380fc95d93973d"
           }
         },
         {
@@ -815,7 +865,8 @@
           "artifact": {
             "size": 2869908,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/ecologics-fabric-1.20.1-2.2.7.jar",
-            "path": "ecologics-fabric-1.20.1-2.2.7.jar"
+            "path": "ecologics-fabric-1.20.1-2.2.7.jar",
+            "MD5": "68b5a32218c8a36dad9d33dc182c70ac"
           }
         },
         {
@@ -829,7 +880,8 @@
           "artifact": {
             "size": 2137232,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/fabric-api-0.92.12+1.20.1.jar",
-            "path": "fabric-api-0.92.12+1.20.1.jar"
+            "path": "fabric-api-0.92.12+1.20.1.jar",
+            "MD5": "0e405ca544d986fb65f3f524e393c11a"
           }
         },
         {
@@ -843,7 +895,8 @@
           "artifact": {
             "size": 8142858,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-            "path": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
+            "path": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+            "MD5": "dd78dcb947b56090b41f943a7cc45da8"
           }
         },
         {
@@ -857,7 +910,8 @@
           "artifact": {
             "size": 1496155,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/framework-fabric-1.20.1-0.8.0.jar",
-            "path": "framework-fabric-1.20.1-0.8.0.jar"
+            "path": "framework-fabric-1.20.1-0.8.0.jar",
+            "MD5": "510bd4ccd5428adfe3ae1200b056fc93"
           }
         },
         {
@@ -871,7 +925,8 @@
           "artifact": {
             "size": 5274822,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/friendsandfoes-fabric-5.0.1+mc1.20.1.jar",
-            "path": "friendsandfoes-fabric-5.0.1+mc1.20.1.jar"
+            "path": "friendsandfoes-fabric-5.0.1+mc1.20.1.jar",
+            "MD5": "421b3e77f3cad5addd954ab8b9fb1ff0"
           }
         },
         {
@@ -885,7 +940,8 @@
           "artifact": {
             "size": 2395040,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/fzzy_config-0.7.7+1.20.1.jar",
-            "path": "fzzy_config-0.7.7+1.20.1.jar"
+            "path": "fzzy_config-0.7.7+1.20.1.jar",
+            "MD5": "576803e6acda4d82c55b7571dab54a54"
           }
         },
         {
@@ -899,7 +955,8 @@
           "artifact": {
             "size": 969015,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/geckolib-fabric-1.20.1-4.8.4.jar",
-            "path": "geckolib-fabric-1.20.1-4.8.4.jar"
+            "path": "geckolib-fabric-1.20.1-4.8.4.jar",
+            "MD5": "ff4bff508c4d596ea30c926e375af2f0"
           }
         },
         {
@@ -913,7 +970,8 @@
           "artifact": {
             "size": 298755,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/guardvillagers-2.0.9-1.20.1.jar",
-            "path": "guardvillagers-2.0.9-1.20.1.jar"
+            "path": "guardvillagers-2.0.9-1.20.1.jar",
+            "MD5": "a25dcaae4ae2ba446327c51e87104a22"
           }
         },
         {
@@ -927,7 +985,8 @@
           "artifact": {
             "size": 7106384,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
-            "path": "handcrafted-fabric-1.20.1-3.0.6.jar"
+            "path": "handcrafted-fabric-1.20.1-3.0.6.jar",
+            "MD5": "0cb41833dc35949cb23625d2e2b3579d"
           }
         },
         {
@@ -941,7 +1000,8 @@
           "artifact": {
             "size": 807683,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/hapi-fabric-1.20.1-1.1.3.jar",
-            "path": "hapi-fabric-1.20.1-1.1.3.jar"
+            "path": "hapi-fabric-1.20.1-1.1.3.jar",
+            "MD5": "85425a388554d8bbdd057b25e29de582"
           }
         },
         {
@@ -955,7 +1015,8 @@
           "artifact": {
             "size": 6179516,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
-            "path": "hybrid_aquatic-fabric-1.20.1-1.7.4.jar"
+            "path": "hybrid_aquatic-fabric-1.20.1-1.7.4.jar",
+            "MD5": "f6fa5b30344c4ca995c2c6e3e82a5800"
           }
         },
         {
@@ -969,7 +1030,8 @@
           "artifact": {
             "size": 7420462,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/letsdo-beachparty-fabric-2.0.3.jar",
-            "path": "letsdo-beachparty-fabric-2.0.3.jar"
+            "path": "letsdo-beachparty-fabric-2.0.3.jar",
+            "MD5": "1cb83d1243d2b00d3803b04f286df621"
           }
         },
         {
@@ -983,7 +1045,8 @@
           "artifact": {
             "size": 575601,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/lootr-fabric-1.20-0.7.35.86.jar",
-            "path": "lootr-fabric-1.20-0.7.35.86.jar"
+            "path": "lootr-fabric-1.20-0.7.35.86.jar",
+            "MD5": "b8e9383e03928d6a3619d3dd6dd5f45d"
           }
         },
         {
@@ -997,7 +1060,8 @@
           "artifact": {
             "size": 672903,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-bridges-3.1.2-mc1.20.1fabric.jar",
-            "path": "mcw-bridges-3.1.2-mc1.20.1fabric.jar"
+            "path": "mcw-bridges-3.1.2-mc1.20.1fabric.jar",
+            "MD5": "5465a911363fc466da49489457e2c4b1"
           }
         },
         {
@@ -1011,7 +1075,8 @@
           "artifact": {
             "size": 1226772,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-doors-1.1.5-mc1.20.1fabric.jar",
-            "path": "mcw-doors-1.1.5-mc1.20.1fabric.jar"
+            "path": "mcw-doors-1.1.5-mc1.20.1fabric.jar",
+            "MD5": "955d78f6387408741e2d2362aeea5061"
           }
         },
         {
@@ -1025,7 +1090,8 @@
           "artifact": {
             "size": 2102784,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
-            "path": "mcw-furniture-3.4.1-mc1.20.1fabric.jar"
+            "path": "mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+            "MD5": "dde7f5854b1a6d814ee6ba76023dc264"
           }
         },
         {
@@ -1039,7 +1105,8 @@
           "artifact": {
             "size": 659511,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
-            "path": "mcw-mcwfences-1.2.1-mc1.20.1fabric.jar"
+            "path": "mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
+            "MD5": "221f4642455729c891cdbf9e19939635"
           }
         },
         {
@@ -1053,7 +1120,8 @@
           "artifact": {
             "size": 523788,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
-            "path": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar"
+            "path": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
+            "MD5": "ee52f02b0de483d6fc4d7731b8bb509f"
           }
         },
         {
@@ -1067,7 +1135,8 @@
           "artifact": {
             "size": 1273261,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
-            "path": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar"
+            "path": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
+            "MD5": "904ebb98ede6d4ee69b35a60cf92b98e"
           }
         },
         {
@@ -1081,7 +1150,8 @@
           "artifact": {
             "size": 59401,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/midnightlib-fabric-1.9.3+1.20.1.jar",
-            "path": "midnightlib-fabric-1.9.3+1.20.1.jar"
+            "path": "midnightlib-fabric-1.9.3+1.20.1.jar",
+            "MD5": "c1ff06bdeb0900a060ae61190922e388"
           }
         },
         {
@@ -1095,7 +1165,8 @@
           "artifact": {
             "size": 149440,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/moredelight-26.05.07-1.20-fabric.jar",
-            "path": "moredelight-26.05.07-1.20-fabric.jar"
+            "path": "moredelight-26.05.07-1.20-fabric.jar",
+            "MD5": "700b2a1b7a1940ec305b567189d9860c"
           }
         },
         {
@@ -1109,7 +1180,8 @@
           "artifact": {
             "size": 4310075,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/naturalist-fabric-4.0.3-1.20.1.jar",
-            "path": "naturalist-fabric-4.0.3-1.20.1.jar"
+            "path": "naturalist-fabric-4.0.3-1.20.1.jar",
+            "MD5": "5313f863f10d2fd2abaa30c18d3c7b02"
           }
         },
         {
@@ -1123,7 +1195,8 @@
           "artifact": {
             "size": 607103,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/numismatic-overhaul-0.2.19+1.20.jar",
-            "path": "numismatic-overhaul-0.2.19+1.20.jar"
+            "path": "numismatic-overhaul-0.2.19+1.20.jar",
+            "MD5": "c726b0153ea8e4930fe4f49178249207"
           }
         },
         {
@@ -1137,7 +1210,8 @@
           "artifact": {
             "size": 905421,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/owo-lib-0.11.2+1.20.jar",
-            "path": "owo-lib-0.11.2+1.20.jar"
+            "path": "owo-lib-0.11.2+1.20.jar",
+            "MD5": "9150f588f732ae38c0320a17fa340626"
           }
         },
         {
@@ -1151,7 +1225,8 @@
           "artifact": {
             "size": 181008,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-            "path": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+            "path": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
           }
         },
         {
@@ -1165,7 +1240,8 @@
           "artifact": {
             "size": 6670371,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/refurbished_furniture-fabric-1.20.1-1.0.20.jar",
-            "path": "refurbished_furniture-fabric-1.20.1-1.0.20.jar"
+            "path": "refurbished_furniture-fabric-1.20.1-1.0.20.jar",
+            "MD5": "9f15cd6b1bf7db4e4d320c64d290057f"
           }
         },
         {
@@ -1179,7 +1255,8 @@
           "artifact": {
             "size": 431646,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/resourcefullib-fabric-1.20.1-2.1.29.jar",
-            "path": "resourcefullib-fabric-1.20.1-2.1.29.jar"
+            "path": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+            "MD5": "9d4e1e80304edc8a672d0173c46c7514"
           }
         },
         {
@@ -1193,7 +1270,8 @@
           "artifact": {
             "size": 224821,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/rocks-1.7.1.jar",
-            "path": "rocks-1.7.1.jar"
+            "path": "rocks-1.7.1.jar",
+            "MD5": "e5f7b28c022a8e43cd26057d9264882f"
           }
         },
         {
@@ -1207,7 +1285,8 @@
           "artifact": {
             "size": 15700827,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/simplyswords-fabric-1.70.2-1.20.1.jar",
-            "path": "simplyswords-fabric-1.70.2-1.20.1.jar"
+            "path": "simplyswords-fabric-1.70.2-1.20.1.jar",
+            "MD5": "99b8c86380a7431c91b2fd466515fc50"
           }
         },
         {
@@ -1221,7 +1300,8 @@
           "artifact": {
             "size": 2222659,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/tide-fabric-1.20.1-2.1.1.jar",
-            "path": "tide-fabric-1.20.1-2.1.1.jar"
+            "path": "tide-fabric-1.20.1-2.1.1.jar",
+            "MD5": "14c02ae7c02d8cb81006dfa47a204906"
           }
         },
         {
@@ -1235,7 +1315,8 @@
           "artifact": {
             "size": 1512753,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/travelersbackpack-fabric-1.20.1-9.1.55.jar",
-            "path": "travelersbackpack-fabric-1.20.1-9.1.55.jar"
+            "path": "travelersbackpack-fabric-1.20.1-9.1.55.jar",
+            "MD5": "1d07ba0acaf5a8f4916de2121d2fc922"
           }
         },
         {
@@ -1249,7 +1330,8 @@
           "artifact": {
             "size": 238532,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/trinkets-3.7.2.jar",
-            "path": "trinkets-3.7.2.jar"
+            "path": "trinkets-3.7.2.jar",
+            "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
           }
         },
         {
@@ -1263,7 +1345,8 @@
           "artifact": {
             "size": 193272,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/tropics-1.0.3.jar",
-            "path": "tropics-1.0.3.jar"
+            "path": "tropics-1.0.3.jar",
+            "MD5": "ecd666ac79cca70ac2acdb36a4015a2c"
           }
         },
         {
@@ -1277,7 +1360,8 @@
           "artifact": {
             "size": 449242,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/villagersplus-fabric-mc1.20.1-4.0.0.jar",
-            "path": "villagersplus-fabric-mc1.20.1-4.0.0.jar"
+            "path": "villagersplus-fabric-mc1.20.1-4.0.0.jar",
+            "MD5": "9a769e757e68a5cd1effa069fd2251dc"
           }
         },
         {
@@ -1291,7 +1375,8 @@
           "artifact": {
             "size": 175574,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/villagertradingplus-fabric-mc1.20.1-1.0.0.jar",
-            "path": "villagertradingplus-fabric-mc1.20.1-1.0.0.jar"
+            "path": "villagertradingplus-fabric-mc1.20.1-1.0.0.jar",
+            "MD5": "c84704d74ab7cbcd1898a64bb2004a3d"
           }
         },
         {
@@ -1305,7 +1390,8 @@
           "artifact": {
             "size": 5279173,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/voicechat-fabric-1.20.1-2.6.22.jar",
-            "path": "voicechat-fabric-1.20.1-2.6.22.jar"
+            "path": "voicechat-fabric-1.20.1-2.6.22.jar",
+            "MD5": "326c270a4f935517ff651a2e644684df"
           }
         },
         {
@@ -1319,7 +1405,8 @@
           "artifact": {
             "size": 538364,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/waystones-fabric-1.20.1-14.1.21.jar",
-            "path": "waystones-fabric-1.20.1-14.1.21.jar"
+            "path": "waystones-fabric-1.20.1-14.1.21.jar",
+            "MD5": "0f53d4f6a9f7289fbc364e96d93906b6"
           }
         },
         {
@@ -1333,7 +1420,8 @@
           "artifact": {
             "size": 5825402,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/worldedit-mod-7.2.15.jar",
-            "path": "worldedit-mod-7.2.15.jar"
+            "path": "worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         }
       ]
