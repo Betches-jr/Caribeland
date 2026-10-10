@@ -1587,7 +1587,7 @@
           },
           "artifact": {
             "size": 2430374,
-            "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/dNHanmFP/immersive_aircraft-1.5.0%2B1.20.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/immersive_aircraft-1.5.0%2B1.20.1-fabric.jar",
             "path": "immersive_aircraft-1.5.0+1.20.1-fabric.jar",
             "MD5": "75e8dcc9948acc754566db7587a268fa"
           }
