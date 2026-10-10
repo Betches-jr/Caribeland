@@ -657,7 +657,7 @@
           },
           "artifact": {
             "size": 2312835,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/bclib-3.0.14.jar",
+            "url": "https://cdn.modrinth.com/data/BgNRHReB/versions/TPC86Pyz/bclib-3.0.14.jar",
             "path": "bclib-3.0.14.jar",
             "MD5": "f8ace3a498b889040dea6ff1ea85d288"
           }
