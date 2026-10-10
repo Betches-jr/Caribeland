@@ -1418,7 +1418,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 490690,
@@ -1433,7 +1433,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 1516696,
@@ -1448,7 +1448,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 2726899,
@@ -1463,7 +1463,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 49334,
@@ -1478,7 +1478,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 721366,
@@ -1493,7 +1493,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 971552,
@@ -1508,7 +1508,7 @@
           "type": "FabricMod",
           "required": {
             "value": false,
-            "def": false
+            "def": true
           },
           "artifact": {
             "size": 127368,
