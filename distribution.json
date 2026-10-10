@@ -1518,21 +1518,6 @@
           }
         },
         {
-          "id": "caribeland:mod-097:1.0.0",
-          "name": "BoomBox 1.0.5",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1721672,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/boombox-1.0.5.jar",
-            "path": "boombox-1.0.5.jar",
-            "MD5": "adb118a4e42b08173c5e1fcb3129bbfd"
-          }
-        },
-        {
           "id": "caribeland:mod-098:1.0.0",
           "name": "Man of Many Planes 0.2.1+1.20.1",
           "type": "FabricMod",
