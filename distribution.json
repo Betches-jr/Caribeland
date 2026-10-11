@@ -1968,6 +1968,21 @@
           }
         },
         {
+          "id": "caribeland:mod-131:1.0.0",
+          "name": "PlayerReviveFabric-1.0.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 127613,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/PlayerReviveFabric-1.0.0.jar",
+            "path": "PlayerReviveFabric-1.0.0.jar",
+            "MD5": "472a6b0e598e805b51c539729647b78a"
+          }
+        },
+        {
           "id": "caribeland:mod-132:1.0.0",
           "name": "Searchables-fabric-1.20.1-1.0.3",
           "type": "FabricMod",
@@ -2280,20 +2295,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/skinlayers3d-fabric-1.11.3-mc1.20.1.jar",
             "path": "skinlayers3d-fabric-1.11.3-mc1.20.1.jar",
             "MD5": "1a06e2110154768b7c0f20c2afd0904c"
-          }
-        },
-        {
-          "id": "caribeland:mod-jade:1.0.0",
-          "name": "Jade-1.20-Fabric-11.13.3",
-          "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
-          "artifact": {
-            "size": 553868,
-            "path": "Jade-1.20-Fabric-11.13.3.jar",
-            "MD5": "de1a0808a3c61c44b57d2adcdaf52632"
           }
         }
       ],
