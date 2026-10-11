@@ -123,21 +123,6 @@
           }
         },
         {
-          "id": "caribeland:mod-002:1.0.0",
-          "name": "BetterMultiplayerSleep 1.1.0",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 19219,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BetterMultiplayerSleep%201.1.0.jar",
-            "path": "BetterMultiplayerSleep 1.1.0.jar",
-            "MD5": "46f25910c90ebba1e7b4c6083edf4bd8"
-          }
-        },
-        {
           "id": "caribeland:mod-003:1.0.0",
           "name": "BiomesOPlenty-fabric-1.20.1-19.0.0.96",
           "type": "FabricMod",
@@ -1159,17 +1144,17 @@
         },
         {
           "id": "caribeland:mod-072:1.0.0",
-          "name": "naturalist-fabric-4.0.3-1.20.1",
+          "name": "naturalist-5.0pre5+fabric-1.20.1",
           "type": "FabricMod",
           "required": {
             "value": true,
             "def": true
           },
           "artifact": {
-            "size": 4310075,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/naturalist-fabric-4.0.3-1.20.1.jar",
-            "path": "naturalist-fabric-4.0.3-1.20.1.jar",
-            "MD5": "5313f863f10d2fd2abaa30c18d3c7b02"
+            "size": 4770880,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/naturalist-5.0pre5%2Bfabric-1.20.1.jar",
+            "path": "naturalist-5.0pre5+fabric-1.20.1.jar",
+            "MD5": "d325c32d3dc4d853b9ed3d4ee0d53cfa"
           }
         },
         {
@@ -1293,21 +1278,6 @@
           }
         },
         {
-          "id": "caribeland:mod-081:1.0.0",
-          "name": "travelersbackpack-fabric-1.20.1-9.1.55",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1512753,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/travelersbackpack-fabric-1.20.1-9.1.55.jar",
-            "path": "travelersbackpack-fabric-1.20.1-9.1.55.jar",
-            "MD5": "1d07ba0acaf5a8f4916de2121d2fc922"
-          }
-        },
-        {
           "id": "caribeland:mod-082:1.0.0",
           "name": "trinkets-3.7.2",
           "type": "FabricMod",
@@ -1395,21 +1365,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/waystones-fabric-1.20.1-14.1.21.jar",
             "path": "waystones-fabric-1.20.1-14.1.21.jar",
             "MD5": "0f53d4f6a9f7289fbc364e96d93906b6"
-          }
-        },
-        {
-          "id": "caribeland:mod-096:1.0.0",
-          "name": "immersive-portals-5.2.0-mc1.20.1-fabric",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 2934316,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/immersive-portals-5.2.0-mc1.20.1-fabric.jar",
-            "path": "immersive-portals-5.2.0-mc1.20.1-fabric.jar",
-            "MD5": "a72daba0bc55c37415a792ab97f40db4"
           }
         },
         {
@@ -1530,6 +1485,21 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/man_of_many_planes-0.2.1%2B1.20.1-fabric.jar",
             "path": "man_of_many_planes-0.2.1+1.20.1-fabric.jar",
             "MD5": "943f5ff6b172cb1cf6cb8f50b666829a"
+          }
+        },
+        {
+          "id": "caribeland:mod-096:1.0.0",
+          "name": "immersive-portals-5.2.0-mc1.20.1-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2934316,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/immersive-portals-5.2.0-mc1.20.1-fabric.jar",
+            "path": "immersive-portals-5.2.0-mc1.20.1-fabric.jar",
+            "MD5": "a72daba0bc55c37415a792ab97f40db4"
           }
         },
         {
@@ -2175,6 +2145,21 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/indium-1.0.36%2Bmc1.20.1.jar",
             "path": "indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          }
+        },
+        {
+          "id": "caribeland:mod-146:1.0.0",
+          "name": "xaeroworldmap-fabric-1.20.1-1.47.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1451783,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/xaeroworldmap-fabric-1.20.1-1.47.0.jar",
+            "path": "xaeroworldmap-fabric-1.20.1-1.47.0.jar",
+            "MD5": "88811d284b2758f92bc743f6be666ec8"
           }
         }
       ],
