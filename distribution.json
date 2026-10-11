@@ -2161,6 +2161,21 @@
             "path": "watut-fabric-1.20.1-1.2.3.jar",
             "MD5": "3c3bafc1f68e028ebc6224cc68ecb99e"
           }
+        },
+        {
+          "id": "caribeland:mod-143:1.0.0",
+          "name": "indium-1.0.36+mc1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": false,
+            "def": true
+          },
+          "artifact": {
+            "size": 105382,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/indium-1.0.36%2Bmc1.20.1.jar",
+            "path": "indium-1.0.36+mc1.20.1.jar",
+            "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          }
         }
       ],
       "discord": {
