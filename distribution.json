@@ -1576,6 +1576,621 @@
             "path": "immersive_aircraft-1.5.0+1.20.1-fabric.jar",
             "MD5": "75e8dcc9948acc754566db7587a268fa"
           }
+        },
+        {
+          "id": "caribeland:mod-102:1.0.0",
+          "name": "accessories-fabric-1.0.0-beta.48+1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 769376,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/accessories-fabric-1.0.0-beta.48%2B1.20.1.jar",
+            "path": "accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+            "MD5": "221b4a22e0d96453c949bcd7d913ad62"
+          }
+        },
+        {
+          "id": "caribeland:mod-103:1.0.0",
+          "name": "BetterNether-AmbientMobs-1.1.0-1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 704717,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BetterNether-AmbientMobs-1.1.0-1.20.1.jar",
+            "path": "BetterNether-AmbientMobs-1.1.0-1.20.1.jar",
+            "MD5": "5932b6fa4665a7f8cd9ecf601e202402"
+          }
+        },
+        {
+          "id": "caribeland:mod-104:1.0.0",
+          "name": "collective-1.20.1-8.44",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 746884,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/collective-1.20.1-8.44.jar",
+            "path": "collective-1.20.1-8.44.jar",
+            "MD5": "4e40aa64a2546f9212ed77d1469cc4b4"
+          }
+        },
+        {
+          "id": "caribeland:mod-105:1.0.0",
+          "name": "comforts-fabric-6.4.0+1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 693624,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/comforts-fabric-6.4.0%2B1.20.1.jar",
+            "path": "comforts-fabric-6.4.0+1.20.1.jar",
+            "MD5": "681a5788b12195e5b2243947203c701e"
+          }
+        },
+        {
+          "id": "caribeland:mod-106:1.0.0",
+          "name": "connectedglass-1.1.14-fabric-mc1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 845048,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/connectedglass-1.1.14-fabric-mc1.20.1.jar",
+            "path": "connectedglass-1.1.14-fabric-mc1.20.1.jar",
+            "MD5": "ceaa8a0a9873da59d1da51592839cbac"
+          }
+        },
+        {
+          "id": "caribeland:mod-107:1.0.0",
+          "name": "Corgilib-Fabric-1.20.1-4.0.3.6",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 700309,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Corgilib-Fabric-1.20.1-4.0.3.6.jar",
+            "path": "Corgilib-Fabric-1.20.1-4.0.3.6.jar",
+            "MD5": "9892e1cc4dbc78c59a6684d5664f0f75"
+          }
+        },
+        {
+          "id": "caribeland:mod-108:1.0.0",
+          "name": "coroutil-fabric-1.20.1-1.3.7",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2392617,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/coroutil-fabric-1.20.1-1.3.7.jar",
+            "path": "coroutil-fabric-1.20.1-1.3.7.jar",
+            "MD5": "44365b7447c9b4c3aeadcadf454494aa"
+          }
+        },
+        {
+          "id": "caribeland:mod-109:1.0.0",
+          "name": "CosmeticArmor-1.20-1.6.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 20221,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/CosmeticArmor-1.20-1.6.0.jar",
+            "path": "CosmeticArmor-1.20-1.6.0.jar",
+            "MD5": "642e2ebbfc66a3bd063994b54f6467ca"
+          }
+        },
+        {
+          "id": "caribeland:mod-110:1.0.0",
+          "name": "CosmeticArmorCompatibility-1.1.3fix",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 9579,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/CosmeticArmorCompatibility-1.1.3fix.jar",
+            "path": "CosmeticArmorCompatibility-1.1.3fix.jar",
+            "MD5": "6690ebf04877fbfa32589ee638514f90"
+          }
+        },
+        {
+          "id": "caribeland:mod-111:1.0.0",
+          "name": "cupboard-fabric-1.20.1-4.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 34903,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/cupboard-fabric-1.20.1-4.0.jar",
+            "path": "cupboard-fabric-1.20.1-4.0.jar",
+            "MD5": "076481c13af46ae4aaea72d0870ea71c"
+          }
+        },
+        {
+          "id": "caribeland:mod-112:1.0.0",
+          "name": "CustomNPCs-Unofficial-Fabric-1.20.1.20251214",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 12981960,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/CustomNPCs-Unofficial-Fabric-1.20.1.20251214.jar",
+            "path": "CustomNPCs-Unofficial-Fabric-1.20.1.20251214.jar",
+            "MD5": "30a86bdc2e7a437e8c1f39d55121d37f"
+          }
+        },
+        {
+          "id": "caribeland:mod-113:1.0.0",
+          "name": "doubledoors-1.20.1-7.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 54162,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/doubledoors-1.20.1-7.3.jar",
+            "path": "doubledoors-1.20.1-7.3.jar",
+            "MD5": "c26f24dcebdbb48f7009609aa35083d7"
+          }
+        },
+        {
+          "id": "caribeland:mod-114:1.0.0",
+          "name": "eureka-1201-1.6.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 451477,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/eureka-1201-1.6.3.jar",
+            "path": "eureka-1201-1.6.3.jar",
+            "MD5": "ea7f553ceb98b8ffb51d0ae4ff9f01b4"
+          }
+        },
+        {
+          "id": "caribeland:mod-115:1.0.0",
+          "name": "FallingTree-1.20.1-4.3.4",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 420181,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/FallingTree-1.20.1-4.3.4.jar",
+            "path": "FallingTree-1.20.1-4.3.4.jar",
+            "MD5": "260303e64027dabb008d5b8ee4f39a7e"
+          }
+        },
+        {
+          "id": "caribeland:mod-116:1.0.0",
+          "name": "ferritecore-6.0.1-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 125197,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/ferritecore-6.0.1-fabric.jar",
+            "path": "ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "caribeland:mod-117:1.0.0",
+          "name": "fusion-1.3.16-fabric-mc1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 931032,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/fusion-1.3.16-fabric-mc1.20.1.jar",
+            "path": "fusion-1.3.16-fabric-mc1.20.1.jar",
+            "MD5": "7b4faa20f61e51985e0f8152426f1ac5"
+          }
+        },
+        {
+          "id": "caribeland:mod-118:1.0.0",
+          "name": "goblintraders-fabric-1.20.1-1.9.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 312370,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/goblintraders-fabric-1.20.1-1.9.3.jar",
+            "path": "goblintraders-fabric-1.20.1-1.9.3.jar",
+            "MD5": "b996dc3cd27dc7ddcd3f6c550f40eed2"
+          }
+        },
+        {
+          "id": "caribeland:mod-119:1.0.0",
+          "name": "lithium-fabric-mc1.20.1-0.11.4",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 691483,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
+            "path": "lithium-fabric-mc1.20.1-0.11.4.jar",
+            "MD5": "01fba3b3678fadc34d4d2878031762cd"
+          }
+        },
+        {
+          "id": "caribeland:mod-120:1.0.0",
+          "name": "lootintegrations_moog-2.2",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 7514,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/lootintegrations_moog-2.2.jar",
+            "path": "lootintegrations_moog-2.2.jar",
+            "MD5": "19a7e0989f525bcdd9a1845eb31236db"
+          }
+        },
+        {
+          "id": "caribeland:mod-121:1.0.0",
+          "name": "lootintegrations-fabric-1.20.1-4.7",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 49238,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/lootintegrations-fabric-1.20.1-4.7.jar",
+            "path": "lootintegrations-fabric-1.20.1-4.7.jar",
+            "MD5": "4129a6586096235bcc98e92753364639"
+          }
+        },
+        {
+          "id": "caribeland:mod-122:1.0.0",
+          "name": "mezz_config-1.20.1-fabric-0.6.8",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 366662,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/mezz_config-1.20.1-fabric-0.6.8.jar",
+            "path": "mezz_config-1.20.1-fabric-0.6.8.jar",
+            "MD5": "fa616ae05e32bed2f67881206cc23bb0"
+          }
+        },
+        {
+          "id": "caribeland:mod-123:1.0.0",
+          "name": "MobCapturingTool-fabric-1.20.1-3.0.2",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 86523,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/MobCapturingTool-fabric-1.20.1-3.0.2.jar",
+            "path": "MobCapturingTool-fabric-1.20.1-3.0.2.jar",
+            "MD5": "ea8818c743c979ea90f89b0e2db9986d"
+          }
+        },
+        {
+          "id": "caribeland:mod-124:1.0.0",
+          "name": "moonlight-1.20-2.16.36-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1396705,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/moonlight-1.20-2.16.36-fabric.jar",
+            "path": "moonlight-1.20-2.16.36-fabric.jar",
+            "MD5": "0357f48c37304e8e894201b7766b56ee"
+          }
+        },
+        {
+          "id": "caribeland:mod-125:1.0.0",
+          "name": "Oh-The-Biomes-Weve-Gone-Fabric-1.8.2",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 18411841,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Oh-The-Biomes-Weve-Gone-Fabric-1.8.2.jar",
+            "path": "Oh-The-Biomes-Weve-Gone-Fabric-1.8.2.jar",
+            "MD5": "518e9ded3f107eb047c3c1865a4e8602"
+          }
+        },
+        {
+          "id": "caribeland:mod-126:1.0.0",
+          "name": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.7.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 174934,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.7.3.jar",
+            "path": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.7.3.jar",
+            "MD5": "9a2ce918a47fd3e460c61f30b1355fed"
+          }
+        },
+        {
+          "id": "caribeland:mod-127:1.0.0",
+          "name": "Paraglider-fabric-20.1.4",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 583699,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Paraglider-fabric-20.1.4.jar",
+            "path": "Paraglider-fabric-20.1.4.jar",
+            "MD5": "1eb9377d78581093164744b552c4332e"
+          }
+        },
+        {
+          "id": "caribeland:mod-128:1.0.0",
+          "name": "particlerain-4.0.2+1.20.1-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 626658,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/particlerain-4.0.2%2B1.20.1-fabric.jar",
+            "path": "particlerain-4.0.2+1.20.1-fabric.jar",
+            "MD5": "bcbe7c953b2505c70759c17291684b42"
+          }
+        },
+        {
+          "id": "caribeland:mod-129:1.0.0",
+          "name": "picaxe-1.20.1-fabric-1.1.2",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 317776,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/picaxe-1.20.1-fabric-1.1.2.jar",
+            "path": "picaxe-1.20.1-fabric-1.1.2.jar",
+            "MD5": "2acd7e2e6807b3e40e674a4664cf3ce5"
+          }
+        },
+        {
+          "id": "caribeland:mod-130:1.0.0",
+          "name": "player-revive-1.0.1-mc1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 118671,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/player-revive-1.0.1-mc1.20.1.jar",
+            "path": "player-revive-1.0.1-mc1.20.1.jar",
+            "MD5": "4949d8d52d85b950add9d9591f90dbc2"
+          }
+        },
+        {
+          "id": "caribeland:mod-131:1.0.0",
+          "name": "PlayerReviveFabric-1.0.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 127613,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/PlayerReviveFabric-1.0.0.jar",
+            "path": "PlayerReviveFabric-1.0.0.jar",
+            "MD5": "472a6b0e598e805b51c539729647b78a"
+          }
+        },
+        {
+          "id": "caribeland:mod-132:1.0.0",
+          "name": "Searchables-fabric-1.20.1-1.0.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 80283,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Searchables-fabric-1.20.1-1.0.3.jar",
+            "path": "Searchables-fabric-1.20.1-1.0.3.jar",
+            "MD5": "57cbf00f9bb837538a3a694cad095a11"
+          }
+        },
+        {
+          "id": "caribeland:mod-133:1.0.0",
+          "name": "slot-customization-api-1.0.0-1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5649,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/slot-customization-api-1.0.0-1.20.1.jar",
+            "path": "slot-customization-api-1.0.0-1.20.1.jar",
+            "MD5": "b937b95f9030a9e80d9852e531f35784"
+          }
+        },
+        {
+          "id": "caribeland:mod-134:1.0.0",
+          "name": "smallships-2.0.1-fabric-1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3054864,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/smallships-2.0.1-fabric-1.20.1.jar",
+            "path": "smallships-2.0.1-fabric-1.20.1.jar",
+            "MD5": "ceaabca403d84c680d3145854d8a3569"
+          }
+        },
+        {
+          "id": "caribeland:mod-135:1.0.0",
+          "name": "sophisticatedbackpacks-1.20.1-3.23.4.5.110",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 986101,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+            "path": "sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+            "MD5": "ee13c681454236fcaa5e85e4f7bc9702"
+          }
+        },
+        {
+          "id": "caribeland:mod-136:1.0.0",
+          "name": "sophisticatedcore-1.20.1-1.2.7.15.166",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2858683,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+            "path": "sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+            "MD5": "07fba011b833d746cff1c36915045b73"
+          }
+        },
+        {
+          "id": "caribeland:mod-137:1.0.0",
+          "name": "supermartijn642corelib-1.1.25-fabric-mc1.20.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 608479,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/supermartijn642corelib-1.1.25-fabric-mc1.20.1.jar",
+            "path": "supermartijn642corelib-1.1.25-fabric-mc1.20.1.jar",
+            "MD5": "9ee6b3408916d4cb6370439719887f08"
+          }
+        },
+        {
+          "id": "caribeland:mod-138:1.0.0",
+          "name": "supplementaries-1.20-3.1.43-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 13493444,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/supplementaries-1.20-3.1.43-fabric.jar",
+            "path": "supplementaries-1.20-3.1.43-fabric.jar",
+            "MD5": "0ba3b6e6f7cab46347f4f1d366e85a32"
+          }
+        },
+        {
+          "id": "caribeland:mod-139:1.0.0",
+          "name": "trashslot-fabric-1.20.1-15.1.5",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 118660,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/trashslot-fabric-1.20.1-15.1.5.jar",
+            "path": "trashslot-fabric-1.20.1-15.1.5.jar",
+            "MD5": "5cc05b88e4fb5f093af369ef4a054b07"
+          }
+        },
+        {
+          "id": "caribeland:mod-140:1.0.0",
+          "name": "valkyrienskies-120-2.4.11",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 33767879,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/valkyrienskies-120-2.4.11.jar",
+            "path": "valkyrienskies-120-2.4.11.jar",
+            "MD5": "5b72c4a5a74a0f392490ad6cd867e70e"
+          }
+        },
+        {
+          "id": "caribeland:mod-141:1.0.0",
+          "name": "walljump-1.20.1-1.3.8-fabric",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 185509,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/walljump-1.20.1-1.3.8-fabric.jar",
+            "path": "walljump-1.20.1-1.3.8-fabric.jar",
+            "MD5": "4290367c7dc6c2d210ea6b6b31743f9b"
+          }
+        },
+        {
+          "id": "caribeland:mod-142:1.0.0",
+          "name": "watut-fabric-1.20.1-1.2.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 789018,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/watut-fabric-1.20.1-1.2.3.jar",
+            "path": "watut-fabric-1.20.1-1.2.3.jar",
+            "MD5": "3c3bafc1f68e028ebc6224cc68ecb99e"
+          }
         }
       ],
       "discord": {
