@@ -1758,21 +1758,6 @@
           }
         },
         {
-          "id": "caribeland:mod-114:1.0.0",
-          "name": "eureka-1201-1.6.3",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 451477,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/eureka-1201-1.6.3.jar",
-            "path": "eureka-1201-1.6.3.jar",
-            "MD5": "ea7f553ceb98b8ffb51d0ae4ff9f01b4"
-          }
-        },
-        {
           "id": "caribeland:mod-115:1.0.0",
           "name": "FallingTree-1.20.1-4.3.4",
           "type": "FabricMod",
@@ -2145,21 +2130,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/trashslot-fabric-1.20.1-15.1.5.jar",
             "path": "trashslot-fabric-1.20.1-15.1.5.jar",
             "MD5": "5cc05b88e4fb5f093af369ef4a054b07"
-          }
-        },
-        {
-          "id": "caribeland:mod-140:1.0.0",
-          "name": "valkyrienskies-120-2.4.11",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 33767879,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/valkyrienskies-120-2.4.11.jar",
-            "path": "valkyrienskies-120-2.4.11.jar",
-            "MD5": "5b72c4a5a74a0f392490ad6cd867e70e"
           }
         },
         {
