@@ -2283,17 +2283,16 @@
           }
         },
         {
-          "id": "caribeland:mod-jade:1.0.0",
-          "name": "Jade-1.21.1-Fabric-15.10.6",
+          "id": "caribeland:mod-156:1.0.0",
+          "name": "Jade-1.20-Fabric-11.13.3",
           "type": "FabricMod",
           "required": {
             "value": false,
             "def": true
           },
           "artifact": {
-            "size": 740746,
-            "path": "Jade-1.21.1-Fabric-15.10.6.jar",
-            "MD5": "be81fdbb2c03889c463260b52739621c"
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/Jade-1.20-Fabric-11.13.3.jar",
+            "path": "Jade-1.20-Fabric-11.13.3.jar"
           }
         }
       ],
