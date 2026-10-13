@@ -1368,6 +1368,21 @@
           }
         },
         {
+          "id": "caribeland:mod-157:1.0.0",
+          "name": "BodiesBodies-1.0.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 163340,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/BodiesBodies-1.0.1.jar",
+            "path": "BodiesBodies-1.0.1.jar",
+            "MD5": "20a2c1a784ed3da6d0ad6c6d577b4167"
+          }
+        },
+        {
           "id": "caribeland:mod-089:1.0.0",
           "name": "enhancedblockentities-0.9+1.20",
           "type": "FabricMod",
