@@ -2319,10 +2319,10 @@
             "def": true
           },
           "artifact": {
-            "size": 4716853,
+            "size": 4718119,
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/betches-fabric-vehicles-0.8.1.jar",
             "path": "betches-fabric-vehicles-0.8.1.jar",
-            "MD5": "0b52b7f303fdd044decc13aa49234bc2"
+            "MD5": "d0ce3f8e0d63b7e28d15d4358621bf55"
           }
         }
       ],
