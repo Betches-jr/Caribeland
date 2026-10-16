@@ -2309,6 +2309,21 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/Jade-1.20-Fabric-11.13.3.jar",
             "path": "Jade-1.20-Fabric-11.13.3.jar"
           }
+        },
+        {
+          "id": "caribeland:mod-158:1.0.0",
+          "name": "betches-fabric-vehicles-0.8.1",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 4716853,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/betches-fabric-vehicles-0.8.1.jar",
+            "path": "betches-fabric-vehicles-0.8.1.jar",
+            "MD5": "0b52b7f303fdd044decc13aa49234bc2"
+          }
         }
       ],
       "discord": {
