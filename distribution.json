@@ -1383,18 +1383,18 @@
           }
         },
         {
-          "id": "caribeland:mod-159:1.0.0",
-          "name": "openblocks-1.0.0-1.20_1.20.1",
+          "id": "caribeland:mod-160:1.0.0",
+          "name": "quartz-elevator-2.2.7+1.20.4",
           "type": "FabricMod",
           "required": {
             "value": true,
             "def": true
           },
           "artifact": {
-            "size": 36736,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/openblocks-1.0.0-1.20_1.20.1.jar",
-            "path": "openblocks-1.0.0-1.20_1.20.1.jar",
-            "MD5": "6aef8f30c7d05734ee2a8023a005b9af"
+            "size": 1053998,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/quartz-elevator-2.2.7%2B1.20.4.jar",
+            "path": "quartz-elevator-2.2.7+1.20.4.jar",
+            "MD5": "639a714be603690f18f72437a43232a1"
           }
         },
         {
