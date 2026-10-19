@@ -2279,6 +2279,17 @@
             "path": "betches-fabric-vehicles-0.8.1.jar",
             "MD5": "8c8a1176776ce54ebca0025627c847ae"
           }
+        },
+        {
+          "id": "caribeland:config-bclib-client:1.0.0",
+          "name": "BCLib client config (auto-sync off)",
+          "type": "File",
+          "artifact": {
+            "size": 853,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/configs/bclib/client.json",
+            "path": "config/bclib/client.json",
+            "MD5": "724b9ba9a7343c65c962fb82bdfb2388"
+          }
         }
       ],
       "discord": {
