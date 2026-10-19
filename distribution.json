@@ -1503,21 +1503,6 @@
           }
         },
         {
-          "id": "caribeland:mod-098:1.0.0",
-          "name": "Man of Many Planes 0.2.1+1.20.1",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 311090,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/man_of_many_planes-0.2.1%2B1.20.1-fabric.jar",
-            "path": "man_of_many_planes-0.2.1+1.20.1-fabric.jar",
-            "MD5": "943f5ff6b172cb1cf6cb8f50b666829a"
-          }
-        },
-        {
           "id": "caribeland:mod-096:1.0.0",
           "name": "immersive-portals-5.2.0-mc1.20.1-fabric",
           "type": "FabricMod",
@@ -1560,21 +1545,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/xaerominimap-fabric-1.20.1-26.6.0.jar",
             "path": "xaerominimap-fabric-1.20.1-26.6.0.jar",
             "MD5": "c0d056b9839c268542b3f752d7260fc8"
-          }
-        },
-        {
-          "id": "caribeland:mod-101:1.0.0",
-          "name": "Immersive Aircraft 1.5.0+1.20.1",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 2430374,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/immersive_aircraft-1.5.0%2B1.20.1-fabric.jar",
-            "path": "immersive_aircraft-1.5.0+1.20.1-fabric.jar",
-            "MD5": "75e8dcc9948acc754566db7587a268fa"
           }
         },
         {
@@ -1815,21 +1785,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/goblintraders-fabric-1.20.1-1.9.3.jar",
             "path": "goblintraders-fabric-1.20.1-1.9.3.jar",
             "MD5": "b996dc3cd27dc7ddcd3f6c550f40eed2"
-          }
-        },
-        {
-          "id": "caribeland:mod-119:1.0.0",
-          "name": "lithium-fabric-mc1.20.1-0.11.4",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 691483,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
-            "path": "lithium-fabric-mc1.20.1-0.11.4.jar",
-            "MD5": "01fba3b3678fadc34d4d2878031762cd"
           }
         },
         {
@@ -2160,21 +2115,6 @@
             "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/optional/indium-1.0.36%2Bmc1.20.1.jar",
             "path": "indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
-          }
-        },
-        {
-          "id": "caribeland:mod-146:1.0.0",
-          "name": "xaeroworldmap-fabric-1.20.1-1.47.0",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1451783,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/xaeroworldmap-fabric-1.20.1-1.47.0.jar",
-            "path": "xaeroworldmap-fabric-1.20.1-1.47.0.jar",
-            "MD5": "88811d284b2758f92bc743f6be666ec8"
           }
         },
         {
