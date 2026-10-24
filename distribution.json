@@ -678,21 +678,6 @@
           }
         },
         {
-          "id": "caribeland:mod-041:1.0.0",
-          "name": "bettercombat-fabric-1.9.0+1.20.1",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 907055,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/bettercombat-fabric-1.9.0+1.20.1.jar",
-            "path": "bettercombat-fabric-1.9.0+1.20.1.jar",
-            "MD5": "1ef35a7b3452ad26eda6469213ce6684"
-          }
-        },
-        {
           "id": "caribeland:mod-042:1.0.0",
           "name": "cardinal-components-api-5.2.3",
           "type": "FabricMod",
