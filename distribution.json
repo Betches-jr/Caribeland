@@ -2252,17 +2252,17 @@
         },
         {
           "id": "caribeland:mod-158:1.0.0",
-          "name": "betches-fabric-vehicles-0.8.1",
+          "name": "Mc-Chipeo-1.0.0",
           "type": "FabricMod",
           "required": {
             "value": true,
             "def": true
           },
           "artifact": {
-            "size": 8530303,
-            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/betches-fabric-vehicles-0.8.1.jar",
-            "path": "betches-fabric-vehicles-0.8.1.jar",
-            "MD5": "c91a8c7a573d3b9aa711cd622066a1dc"
+            "size": 8531631,
+            "url": "https://raw.githubusercontent.com/Betches-jr/Caribeland/main/mods/required/Mc-Chipeo-1.0.0.jar",
+            "path": "Mc-Chipeo-1.0.0.jar",
+            "MD5": "85287a678abc11e196244e0a1968a3e7"
           }
         },
         {
